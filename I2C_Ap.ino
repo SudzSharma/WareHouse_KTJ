@@ -1,5 +1,11 @@
+/*Author-Sudarshan Sharma
+Purpose-Full KTJ WAREHOUSE EVENT Code
+*/
+
 
 #include<Wire.h>
+
+
 int read_count=0,tag_count=0;
 
 char data_temp, RFID_data[13];
